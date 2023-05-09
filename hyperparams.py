@@ -32,5 +32,5 @@ batch_size = 32
 cleaners='english_cleaners'
 
 data_path = './dataset'
-checkpoint_path = './checkpoint'
+checkpoint_path = './kaggle/working/tts_zip/tts_zip/checkpoint'
 sample_path = './samples'
