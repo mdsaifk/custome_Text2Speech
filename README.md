@@ -7,7 +7,6 @@
 
 ## Requirements
   * Install python 3
-  * Install pytorch == 0.4.0
   * Install requirements:
     ```
    	pip install -r requirements.txt
